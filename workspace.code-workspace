@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\logos_IT_hw1"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Ayu Dark",
+		"workbench.preferredDarkColorTheme": "Solarized Dark",
+		"liveServer.settings.multiRootWorkspaceName": "testProject"
+	}
+}
